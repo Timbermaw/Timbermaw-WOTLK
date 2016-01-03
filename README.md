@@ -1,7 +1,7 @@
 Timbermaw WOTLK
 ================================
 
-How to use?
+How to use the bugtracker
 -------------------------
 On the Bugtracker all reports must be written in English so that everyone, no matter which language they use everyday, could search and check if the problem already has been reported by another player.
 
@@ -9,14 +9,13 @@ On the Bugtracker all reports must be written in English so that everyone, no ma
  - Make sure, that what you report is actually a bug.
  - Enclose links to things related to the bug using http://wowhead.com or http://wotlk.openwow.com
  - Write your tickets according to the format:<br>
-  * `[Quest][Zone]` A Vision of the Past<br>
+  * `[Quest][Zone]` Collecting Kelp<br>
   * `[NPC]` Thoralius the Wise<br>
-  * `[Spell][Class]` Frostfire Bolt<br>
-  * `[Talent][Class]` Brain Freeze<br>
-  * `[Glyph][Class]` Glyph of Frostfire Bolt<br>
+  * `[Spell][Class]` Fireball<br>
+  * `[Talent][Class]` Searing Light<br>
+  * `[Glyph][Class]` Glyph of Nourish<br>
   * `[Npc][Drop]` Thoralius the Wise<br>
   * `[Web]` Armory doesnt work
- - List of currently supported tags [/wiki/List-of-supported-tags-in-issue](https://github.com/Atlantiss/BugTracker/wiki/List-of-supported-tags-in-issue)
 
 
 Additional Information
